@@ -1,6 +1,6 @@
 # SWT-ResNet: A Novel Hybrid Model for Visual Defects Recognition Based on Stationary Wavelet Transform and CNN
 
-Qiang Cui, Yafeng Li, Hongwei Bianc, Jie Kong, Yunwei Dong. ************************
+Qiang Cui, Yafeng Li, Hongwei Bianc, Jie Kong, Yunwei Dong.
 
 If you have questions about our methods and code, please contact: cqnwpu@163.com
 
@@ -13,14 +13,14 @@ If you find this code is useful and helpful to your work, please cite our paper 
 ### Running environment:
 
 The proposed methods are implemented in Python 3.8 with PyTorch framework on a desktop computer equipped with an NVIDIA RTX 3080 GPU.
-opencv-python==4.10
-numpy==1.24.4
-torch==1.10.0+cu113
-torchvision==0.11.1+cu113
-albumentations==1.4.14
-PyWavelets==1.4.1
-matplotlib==3.5.0
-scikit-learn==1.0.2
+- opencv-python==4.10
+- numpy==1.24.4
+- torch==1.10.0+cu113
+- torchvision==0.11.1+cu113
+- albumentations==1.4.14
+- PyWavelets==1.4.1
+- matplotlib==3.5.0
+- scikit-learn==1.0.2
 
 ### Dataset used in this paper:
 
