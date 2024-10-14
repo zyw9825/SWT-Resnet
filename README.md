@@ -6,7 +6,7 @@ Qiang Cui, Yafeng Li, Hongwei Bianc, Jie Kong, Yunwei Dong. ********************
 
 # Project Completion Notice
 
-Due to the collaborative nature of this work with the research institute, which involves confidential content, a model training and validation platform has been designed using a PyQt interface. The executable program can be found in the folder ui. 
+Due to the collaborative nature of this work with the research institute, which involves confidential content, a model training and validation platform has been designed using a PyQt interface. The executable program can be found in the folder [ui](https://drive.google.com/drive/folders/19WTJaTktcYu04aykjz4FIQC4vjkOUnEP?usp=drive_link). 
 
 The code publicly shares the design concepts of SWT-ResNet50 and the usage of the stationary wavelet transform. However, the actual implementation of the network architecture and training process is left to the user. Please note that the functions `wave1` through `wave4` within the SWT-ResNet50 network architecture need to be specifically designed for your tasks while maintaining channel merging with the backbone network.
 
