@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 opencv-python==4.10
 numpy==1.24.4
 torch==1.10.0+cu113
@@ -5,4 +6,13 @@ torchvision==0.11.1+cu113
 albumentations==1.4.14
 PyWavelets==1.4.1
 matplotlib==3.5.0
+=======
+opencv-python==4.10
+numpy==1.24.4
+torch==1.10.0+cu113
+torchvision==0.11.1+cu113
+albumentations==1.4.14
+PyWavelets==1.4.1
+matplotlib==3.5.0
+>>>>>>> f71b4be874d315ccadba1a67ee96d3aa762e1527
 scikit-learn==1.0.2
