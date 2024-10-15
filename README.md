@@ -1,8 +1,6 @@
 # SWT-ResNet: A Novel Hybrid Model for Visual Defects Recognition Based on Stationary Wavelet Transform and CNN
 
-<<<<<<< HEAD
-Qiang Cui, Yafeng Li, Hongwei Bian, Jie Kong, Yunwei Dong. ************************
-
+Qiang Cui, Yafeng Li, Hongwei Bian, Jie Kong, Yunwei Dong. 
 
 # Project Completion Notice
 
@@ -32,8 +30,6 @@ The proposed methods are implemented in Python 3.8 with PyTorch framework on a d
 
 # How to Use
 
-## Adapting to Paper Results
-
 This executable file(ui.exe) is designed to validate and evaluate the effectiveness of the methods and models proposed in the paper. Follow these steps:
 
 1. **Select Model Corresponding to Dataset Parameters**:  
@@ -45,7 +41,7 @@ This executable file(ui.exe) is designed to validate and evaluate the effectiven
 3. **Click "Export Validation Results"**:  
    Once you have selected the model and validation dataset, **click the "Export Validation Results" button**. This will initiate the validation process and output the results to a specified location.
 
-=======
+=====
 
 Qiang Cui, Yafeng Li, Hongwei Bian, Jie Kong, Yunwei Dong.
 
