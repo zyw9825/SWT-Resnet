@@ -30,10 +30,6 @@ The proposed methods are implemented in Python 3.8 with PyTorch framework on a d
 3. [AMT](https://pan.baidu.com/s/1lofG73Xg4Hz6ytBP30eBmg?pwd=79l7)
 4. [HRIPCB](https://robotics.pkusz.edu.cn/resources/dataset/)
 
-### Experimental results:
-1.	classification based on SWT-ResNet with ** dataset.
-
-
 # How to Use
 
 ## Adapting to Paper Results
