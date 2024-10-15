@@ -1,7 +1,7 @@
 # SWT-ResNet: A Novel Hybrid Model for Visual Defects Recognition Based on Stationary Wavelet Transform and CNN
 
 <<<<<<< HEAD
-Qiang Cui, Yafeng Li, Hongwei Bianc, Jie Kong, Yunwei Dong. ************************
+Qiang Cui, Yafeng Li, Hongwei Bian, Jie Kong, Yunwei Dong. ************************
 
 
 # Project Completion Notice
@@ -47,7 +47,7 @@ This executable file(ui.exe) is designed to validate and evaluate the effectiven
 
 =======
 
-Qiang Cui, Yafeng Li, Hongwei Bianc, Jie Kong, Yunwei Dong.
+Qiang Cui, Yafeng Li, Hongwei Bian, Jie Kong, Yunwei Dong.
 
 If you have questions about our methods and code, please contact: cqnwpu@163.com
 
