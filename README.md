@@ -39,7 +39,7 @@ This executable file(ui.exe) is designed to validate and evaluate the effectiven
    Choose the folder that contains your validation dataset. **Each class of data should be placed in its own subfolder**, adhering to the expected structure. For example, your folder structure might look like this:
  
    ```
-         dataset/
+   dataset/
       ├── class_0/                # Samples of category 0
       │   ├── sample_0.jpg
       │   ├── sample_1.jpg
